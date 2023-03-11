@@ -47,7 +47,7 @@
 </div>
 
 
- 
+The project has too big size for Github. Therefore, I uploaded it to drive and shared the link = https://drive.google.com/drive/folders/1SAK4OMFJR0m06OV5TAjQCZ_QClOzqTUU?usp=share_link
 
 ### 👾  Built With
 
