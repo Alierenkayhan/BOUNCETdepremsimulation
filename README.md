@@ -1,0 +1,1 @@
+# BOUNCETdepremsim-lasyonu
