@@ -35,7 +35,7 @@
 <div align="center">
 
   <p align="center">
-    👨‍💻 The size of file is too much so I create a drive  link = https://drive.google.com/drive/folders/1INQEt9_FTGSFkslYbW-_B5pJXX07s4ou?usp=share_link 👨‍💻
+    👨‍💻 The project has too big size for Github. Therefore, I uploaded it to drive and shared the link https://drive.google.com/drive/folders/1SAK4OMFJR0m06OV5TAjQCZ_QClOzqTUU?usp=share_link 👨‍💻
     <br />
     <a href="https://github.com/Alierenkayhan/BOUNCETdepremsimulation"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,8 +46,6 @@
   </p>
 </div>
 
-
-The project has too big size for Github. Therefore, I uploaded it to drive and shared the link = https://drive.google.com/drive/folders/1SAK4OMFJR0m06OV5TAjQCZ_QClOzqTUU?usp=share_link
 
 ### 👾  Built With
 
