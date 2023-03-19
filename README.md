@@ -35,7 +35,7 @@
 <div align="center">
 
   <p align="center">
-    👨‍💻 Mr Academic World and this repository belongs to Ali Eren Kayhan. YOU CAN NOT SHARE OR USE ANY MATERIALS WITHOUT PERMISSION 👨‍💻
+    👨‍💻 The size of file is too much so I create a drive  link = https://drive.google.com/drive/folders/1INQEt9_FTGSFkslYbW-_B5pJXX07s4ou?usp=share_link 👨‍💻
     <br />
     <a href="https://github.com/Alierenkayhan/BOUNCETdepremsimulation"><strong>Explore the docs »</strong></a>
     <br />
