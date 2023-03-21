@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/.idea
+/.vsconfig
+/Assets/Assets/DevDen Arch Viz Scotland HDRP/*
+/Assets/Assets/DevDen Arch Viz Scotland HDRP.meta
+/Assets/Character/*
