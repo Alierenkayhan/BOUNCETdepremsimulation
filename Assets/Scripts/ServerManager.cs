@@ -31,13 +31,7 @@ public class ServerManager : MonoBehaviourPunCallbacks
         base .OnJoinedRoom();
         Debug.Log("Odaya bağlanıldı");
         Debug.Log("Karakter oluşturuluyor...");
-        PhotonNetwork.Instantiate("Kemal", new Vector3(-10,5,-5), Quaternion.identity, 0, null);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        PhotonNetwork.Instantiate("Kemal", new Vector3(-10, 2.54f, 7.75f), Quaternion.identity, 0, null);
     }
 
 }
